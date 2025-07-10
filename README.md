@@ -41,7 +41,7 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 1. Database & Table Creation
 
 We start by creating a SQL table with appropriate data types:
-
+'''sql
 CREATE TABLE zepto (
   sku_id SERIAL PRIMARY KEY,
   category VARCHAR(120),
@@ -54,6 +54,8 @@ CREATE TABLE zepto (
   outOfStock BOOLEAN,
   quantity INTEGER
 );
+'''
+
 
 2. Data Import
 
@@ -110,10 +112,10 @@ Converted mrp and discountedSellingPrice from paise to rupees for consistency an
 
 1. Clone this repository:
 
-bash
+'''bash
 git clone https://github.com/aravind-raj0207/Zepto_dataAnalysis
 cd zepto-inventory-analysis
-
+'''
 
 2. Import the SQL table schema using the SQL code provided above.
 3. Load the dataset (CSV) into the table using the \copy command.
