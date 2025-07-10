@@ -21,3 +21,6 @@ Purpose: To assess stock volume by category for warehouse space optimization and
 Step5- Create the report
 
 The dataset is used in this project was 'https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset?resource=download'
+
+![WhatsApp Image 2025-07-10 at 18 55 36_87e09d18](https://github.com/user-attachments/assets/12cc48cb-2174-4d1a-9c10-f49cbf455c71)
+
