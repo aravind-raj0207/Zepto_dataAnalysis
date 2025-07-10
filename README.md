@@ -150,7 +150,7 @@ Built an interactive Power BI dashboard that visualizes:
 ## 🤝 Connect with Me
 
 *Aravind raj J*
-🎓 Final Year – B.Tech AI & Data Science
+🎓 BCA
 📧 [aravindraj.j02@gmail.com](mailto:jraj272005@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/aravindraj272005)
 
