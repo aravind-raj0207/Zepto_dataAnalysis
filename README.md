@@ -1,4 +1,4 @@
-Zepto Inventory Analysis using SQL
+## Zepto Inventory Analysis using SQL
 
 A data-driven inventory analysis project inspired by Zepto — a fast-growing quick-commerce startup. This project demonstrates real-world SQL skills applied to retail inventory datasets to derive actionable business insights.
 
